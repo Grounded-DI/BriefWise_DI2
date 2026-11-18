@@ -6,9 +6,9 @@ A public archive of source-locked legal-authority audits, citation certificates,
 
 This repository contains 17 dated artifacts plus this README. The collection was created on May 8, 2026 and expanded through June 17, 2026; the artifacts preserve development and demonstration records reaching back to June and July 2025. They include certificate PDFs, source-locked audit packages, diagrams, a text-based audit demo, and a methodology article.
 
-BriefWise DI² is presented here as a staged legal-output validation architecture. It organizes facts and procedural posture, resolves authorities against sources, maps propositions to authority, checks quotations and pinpoints, routes uncertainty, and preserves an audit trail before a document is treated as filing-facing. The repository is a public record of those mechanisms and recorded audit milestones, not the complete private runtime or a filing-use certification.
+BriefWise DI² uses a staged legal-output validation architecture. It organizes facts and procedural posture, resolves authorities against sources, maps propositions to authority, checks quotations and pinpoints, routes uncertainty, and preserves an audit trail before a document is treated as filing-facing. The repository is a public record of those mechanisms and recorded audit milestones, not the complete private runtime or a filing-use certification.
 
-The dated terminology—VaultSeal, CanonLock, Scroll, Gatekeeper, entropy, and FilingReady—is preserved because it is part of the record. The plain-language descriptions below are orientation, not replacements for definitions in the dated artifacts.
+The dated terminology—VaultSeal, CanonLock, Scroll, Gatekeeper, entropy, and FilingReady—is preserved because it is part of the record. The dated artifacts define these terms.
 
 ## What the repository contains
 
